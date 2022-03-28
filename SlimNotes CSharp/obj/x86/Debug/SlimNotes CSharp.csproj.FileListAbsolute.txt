@@ -1,0 +1,54 @@
+c:\users\salts\documents\visual studio 2010\Projects\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes_CSharp.Properties.Resources.resources
+c:\users\salts\documents\visual studio 2010\Projects\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.csproj.GenerateResource.Cache
+c:\users\salts\documents\visual studio 2010\Projects\SlimNotes CSharp\SlimNotes CSharp\bin\Debug\SlimNotes CSharp.exe
+c:\users\salts\documents\visual studio 2010\Projects\SlimNotes CSharp\SlimNotes CSharp\bin\Debug\SlimNotes CSharp.pdb
+c:\users\salts\documents\visual studio 2010\Projects\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.exe
+c:\users\salts\documents\visual studio 2010\Projects\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.pdb
+C:\Users\salts\Documents\Visual Studio 2010\Projects\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.csprojAssemblyReference.cache
+C:\Users\salts\Documents\Visual Studio 2010\Projects\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.csproj.CoreCompileInputs.cache
+C:\Users\salts\Documents\Visual Studio 2010\Projects\SlimNotes CSharp\SlimNotes CSharp\bin\Debug\SlimNotes CSharp.exe.config
+C:\Users\salts\Documents\Visual Studio 2010\Projects\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes_CSharp.Mainnote.resources
+E:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\bin\Debug\SlimNotes CSharp.exe.config
+E:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.exe
+E:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.pdb
+E:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\bin\Debug\SlimNotes CSharp.exe
+E:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\bin\Debug\SlimNotes CSharp.pdb
+E:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes_CSharp.Mainnote.resources
+E:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes_CSharp.Properties.Resources.resources
+E:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.csproj.GenerateResource.Cache
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\bin\Debug\SlimNotes CSharp.exe.config
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.exe
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.pdb
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\bin\Debug\SlimNotes CSharp.exe
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\bin\Debug\SlimNotes CSharp.pdb
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes_CSharp.Mainnote.resources
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes_CSharp.Properties.Resources.resources
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.csproj.GenerateResource.Cache
+G:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\bin\Debug\SlimNotes CSharp.exe.config
+G:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.exe
+G:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.pdb
+G:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\bin\Debug\SlimNotes CSharp.exe
+G:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\bin\Debug\SlimNotes CSharp.pdb
+G:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes_CSharp.Mainnote.resources
+G:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes_CSharp.Properties.Resources.resources
+G:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.csproj.GenerateResource.Cache
+G:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.csprojResolveAssemblyReference.cache
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2011\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.csprojResolveAssemblyReference.cache
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2010\SlimNotes CSharp\SlimNotes CSharp\bin\Debug\SlimNotes CSharp.exe.config
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2010\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.exe
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2010\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.pdb
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2010\SlimNotes CSharp\SlimNotes CSharp\bin\Debug\SlimNotes CSharp.exe
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2010\SlimNotes CSharp\SlimNotes CSharp\bin\Debug\SlimNotes CSharp.pdb
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2010\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.csprojResolveAssemblyReference.cache
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2010\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes_CSharp.Mainnote.resources
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2010\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes_CSharp.Properties.Resources.resources
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2010\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.csproj.GenerateResource.Cache
+D:\Projects\VS2010\SlimNotes CSharp\SlimNotes CSharp\bin\Debug\SlimNotes CSharp.exe.config
+D:\Projects\VS2010\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.exe
+D:\Projects\VS2010\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.pdb
+D:\Projects\VS2010\SlimNotes CSharp\SlimNotes CSharp\bin\Debug\SlimNotes CSharp.exe
+D:\Projects\VS2010\SlimNotes CSharp\SlimNotes CSharp\bin\Debug\SlimNotes CSharp.pdb
+D:\Projects\VS2010\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.csprojResolveAssemblyReference.cache
+D:\Projects\VS2010\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes_CSharp.Mainnote.resources
+D:\Projects\VS2010\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes_CSharp.Properties.Resources.resources
+D:\Projects\VS2010\SlimNotes CSharp\SlimNotes CSharp\obj\x86\Debug\SlimNotes CSharp.csproj.GenerateResource.Cache
