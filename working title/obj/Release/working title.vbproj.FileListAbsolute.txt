@@ -1,0 +1,11 @@
+C:\Users\salts\source\repos\working title\working title\bin\Release\SlimNotes.exe
+C:\Users\salts\source\repos\working title\working title\bin\Release\SlimNotes.pdb
+C:\Users\salts\source\repos\working title\working title\bin\Release\SlimNotes.xml
+C:\Users\salts\source\repos\working title\working title\obj\Release\working_title.Form1.resources
+C:\Users\salts\source\repos\working title\working title\obj\Release\working_title.Resources.resources
+C:\Users\salts\source\repos\working title\working title\obj\Release\working title.vbproj.GenerateResource.cache
+C:\Users\salts\source\repos\working title\working title\obj\Release\working title.vbproj.CoreCompileInputs.cache
+C:\Users\salts\source\repos\working title\working title\obj\Release\SlimNotes.exe
+C:\Users\salts\source\repos\working title\working title\obj\Release\SlimNotes.xml
+C:\Users\salts\source\repos\working title\working title\obj\Release\SlimNotes.pdb
+C:\Users\salts\source\repos\working title\working title\obj\Release\working title.vbprojAssemblyReference.cache

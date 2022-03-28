@@ -1,0 +1,10 @@
+D:\Projects\VS2017 and 2019\working title\working title\bin\Release\SlimNotes.exe.config
+D:\Projects\VS2017 and 2019\working title\working title\obj\Release\SlimNotes.exe
+D:\Projects\VS2017 and 2019\working title\working title\obj\Release\SlimNotes.xml
+D:\Projects\VS2017 and 2019\working title\working title\obj\Release\SlimNotes.pdb
+D:\Projects\VS2017 and 2019\working title\working title\bin\Release\SlimNotes.exe
+D:\Projects\VS2017 and 2019\working title\working title\bin\Release\SlimNotes.pdb
+D:\Projects\VS2017 and 2019\working title\working title\bin\Release\SlimNotes.xml
+D:\Projects\VS2017 and 2019\working title\working title\obj\Release\SlimNotes.Mainnote.resources
+D:\Projects\VS2017 and 2019\working title\working title\obj\Release\SlimNotes.Resources.resources
+D:\Projects\VS2017 and 2019\working title\working title\obj\Release\SlimNotes VB.vbproj.GenerateResource.Cache

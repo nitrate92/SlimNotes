@@ -1,0 +1,4 @@
+D:\Projects\VS2017 and 2019\working title\working title\bin\Debug\SlimNotes.exe.config
+D:\Projects\VS2017 and 2019\working title\working title\obj\Debug\SlimNotes.exe
+D:\Projects\VS2017 and 2019\working title\working title\obj\Debug\SlimNotes.xml
+D:\Projects\VS2017 and 2019\working title\working title\obj\Debug\SlimNotes.pdb

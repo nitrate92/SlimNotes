@@ -1,0 +1,23 @@
+C:\Users\salts\source\repos\working title\working title\bin\Debug\SlimNotes.exe
+C:\Users\salts\source\repos\working title\working title\bin\Debug\SlimNotes.pdb
+C:\Users\salts\source\repos\working title\working title\bin\Debug\SlimNotes.xml
+C:\Users\salts\source\repos\working title\working title\obj\Debug\SlimNotes.vbprojAssemblyReference.cache
+C:\Users\salts\source\repos\working title\working title\obj\Debug\SlimNotes.mainnote.resources
+C:\Users\salts\source\repos\working title\working title\obj\Debug\SlimNotes.Resources.resources
+C:\Users\salts\source\repos\working title\working title\obj\Debug\SlimNotes.vbproj.GenerateResource.cache
+C:\Users\salts\source\repos\working title\working title\obj\Debug\SlimNotes.vbproj.CoreCompileInputs.cache
+C:\Users\salts\source\repos\working title\working title\obj\Debug\SlimNotes.exe
+C:\Users\salts\source\repos\working title\working title\obj\Debug\SlimNotes.xml
+C:\Users\salts\source\repos\working title\working title\obj\Debug\SlimNotes.pdb
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2017 and 2019\working title\working title\bin\Debug\SlimNotes.exe.config
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2017 and 2019\working title\working title\bin\Debug\SlimNotes.exe
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2017 and 2019\working title\working title\bin\Debug\SlimNotes.pdb
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2017 and 2019\working title\working title\bin\Debug\SlimNotes.xml
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2017 and 2019\working title\working title\obj\Debug\SlimNotes.vbprojAssemblyReference.cache
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2017 and 2019\working title\working title\obj\Debug\SlimNotes.Mainnote.resources
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2017 and 2019\working title\working title\obj\Debug\SlimNotes.Resources.resources
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2017 and 2019\working title\working title\obj\Debug\SlimNotes.vbproj.GenerateResource.cache
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2017 and 2019\working title\working title\obj\Debug\SlimNotes.vbproj.CoreCompileInputs.cache
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2017 and 2019\working title\working title\obj\Debug\SlimNotes.exe
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2017 and 2019\working title\working title\obj\Debug\SlimNotes.xml
+D:\BACKUPPPPPPPPPP\progrmamammas\vs2017 and 2019\working title\working title\obj\Debug\SlimNotes.pdb

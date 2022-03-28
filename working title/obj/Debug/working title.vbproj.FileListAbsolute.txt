@@ -1,0 +1,13 @@
+C:\Users\salts\source\repos\working title\working title\obj\Debug\working_title.Form1.resources
+C:\Users\salts\source\repos\working title\working title\obj\Debug\working_title.Resources.resources
+C:\Users\salts\source\repos\working title\working title\obj\Debug\working title.vbproj.GenerateResource.cache
+C:\Users\salts\source\repos\working title\working title\obj\Debug\SlimNotes.xml
+C:\Users\salts\source\repos\working title\working title\bin\Debug\SlimNotes.exe
+C:\Users\salts\source\repos\working title\working title\bin\Debug\SlimNotes.pdb
+C:\Users\salts\source\repos\working title\working title\bin\Debug\SlimNotes.xml
+C:\Users\salts\source\repos\working title\working title\obj\Debug\SlimNotes.exe
+C:\Users\salts\source\repos\working title\working title\obj\Debug\SlimNotes.pdb
+D:\Projects\vs2017 and 2019\working title\working title\bin\Debug\SlimNotes.exe.config
+D:\Projects\vs2017 and 2019\working title\working title\obj\Debug\SlimNotes.exe
+D:\Projects\vs2017 and 2019\working title\working title\obj\Debug\SlimNotes.xml
+D:\Projects\vs2017 and 2019\working title\working title\obj\Debug\SlimNotes.pdb
